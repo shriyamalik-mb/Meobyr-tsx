@@ -12,6 +12,7 @@
   },
   "dependencies": {
     "@deck.gl/aggregation-layers": "^9.1.12",
+    "@deck.gl/layers": "^9.1.12",
     "@deck.gl/react": "^9.1.12",
     "@hookform/resolvers": "^3.9.0",
     "@radix-ui/react-accordion": "^1.2.0",
